@@ -6,7 +6,7 @@ My first idea is a big one: A conversation bot that will act as a caregiver/domi
 
 This could eventually serve as a gateway to my finally researching machine learning and/or AI to be used in later versions of this bot.
 
-![Image of flogger over red background](https://images.pexels.com/photos/5187591/pexels-photo-5187591.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=640&w=960)
+![Image of flogger over red background](https://github.com/mx-wolf-1226/cg-dom-bot/raw/main/docs/blog-updates/pexels-anna-shvets-5187591.jpg)
 
 As for this particular version of the bot, the message functionality will include:
 - Generation of self-care prompts at random
